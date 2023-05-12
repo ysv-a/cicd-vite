@@ -67,5 +67,4 @@ jobs:
     - name: Copy files to the server
       run: |
         rsync -a -r --progress --human-readable --delete \
-        --exclude-from '.gitignore' \
         . root@82.148.16.149:/var/www/html/
