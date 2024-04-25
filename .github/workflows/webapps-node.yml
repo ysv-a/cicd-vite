@@ -67,4 +67,4 @@ jobs:
     - name: Copy files to the server
       run: |
         rsync -a -r --progress --human-readable --delete \
-        . root@82.148.16.149:/var/www/html/
+        . root@79.143.29.201:/var/www/html/
