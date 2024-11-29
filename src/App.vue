@@ -9,12 +9,6 @@ import TheWelcome from './components/TheWelcome.vue'
 
     <div class="wrapper">
       <HelloWorld msg="HELLO WORLD!!!!!!!!" />
-      <HelloWorld msg="HELLO WORLD!!!!!!!!" />
-      <HelloWorld msg="HELLO WORLD!!!!!!!!" />
-      <HelloWorld msg="HELLO WORLD!!!!!!!!" />
-      <HelloWorld msg="HELLO WORLD!!!!!!!!" />
-      <HelloWorld msg="HELLO WORLD!!!!!!!!" />
-      <HelloWorld msg="HELLO WORLD!!!!!!!!" />
     </div>
   </header>
 
